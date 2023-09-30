@@ -1,0 +1,805 @@
+{
+    "name_model": "road_default",
+    "matrix": [
+        [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ],
+        [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ],
+        [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ],
+        [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ],
+        [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ],
+        [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ],
+        [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ],
+        [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ],
+        [
+            [
+                {
+                    "dir": 1,
+                    "from_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": true,
+                        "right": false
+                    },
+                    "block_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": false,
+                        "right": false
+                    },
+                    "type_agent": 2
+                }
+            ],
+            [
+                {
+                    "dir": 1,
+                    "from_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": true,
+                        "right": false
+                    },
+                    "block_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": false,
+                        "right": false
+                    },
+                    "type_agent": 2
+                }
+            ],
+            [
+                {
+                    "dir": 1,
+                    "from_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": true,
+                        "right": false
+                    },
+                    "block_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": false,
+                        "right": false
+                    },
+                    "type_agent": 2
+                }
+            ],
+            [
+                {
+                    "dir": 1,
+                    "from_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": true,
+                        "right": false
+                    },
+                    "block_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": false,
+                        "right": false
+                    },
+                    "type_agent": 2
+                }
+            ],
+            [
+                {
+                    "dir": 1,
+                    "from_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": true,
+                        "right": false
+                    },
+                    "block_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": false,
+                        "right": false
+                    },
+                    "type_agent": 2
+                }
+            ],
+            [
+                {
+                    "dir": 1,
+                    "from_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": true,
+                        "right": false
+                    },
+                    "block_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": false,
+                        "right": false
+                    },
+                    "type_agent": 2
+                }
+            ],
+            [
+                {
+                    "dir": 1,
+                    "from_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": true,
+                        "right": false
+                    },
+                    "block_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": false,
+                        "right": false
+                    },
+                    "type_agent": 2
+                }
+            ],
+            [
+                {
+                    "dir": 1,
+                    "from_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": true,
+                        "right": false
+                    },
+                    "block_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": false,
+                        "right": false
+                    },
+                    "type_agent": 2
+                }
+            ],
+            [
+                {
+                    "dir": 1,
+                    "from_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": true,
+                        "right": false
+                    },
+                    "block_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": false,
+                        "right": false
+                    },
+                    "type_agent": 2
+                }
+            ],
+            [
+                {
+                    "dir": 1,
+                    "from_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": true,
+                        "right": false
+                    },
+                    "block_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": false,
+                        "right": false
+                    },
+                    "type_agent": 2
+                }
+            ],
+            [
+                {
+                    "dir": 1,
+                    "from_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": true,
+                        "right": false
+                    },
+                    "block_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": false,
+                        "right": false
+                    },
+                    "type_agent": 2
+                }
+            ],
+            [
+                {
+                    "dir": 1,
+                    "from_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": true,
+                        "right": false
+                    },
+                    "block_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": false,
+                        "right": false
+                    },
+                    "type_agent": 2
+                }
+            ],
+            [
+                {
+                    "dir": 1,
+                    "from_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": true,
+                        "right": false
+                    },
+                    "block_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": false,
+                        "right": false
+                    },
+                    "type_agent": 2
+                }
+            ],
+            [
+                {
+                    "dir": 1,
+                    "from_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": true,
+                        "right": false
+                    },
+                    "block_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": false,
+                        "right": false
+                    },
+                    "type_agent": 2
+                }
+            ],
+            [
+                {
+                    "dir": 1,
+                    "from_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": true,
+                        "right": false
+                    },
+                    "block_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": false,
+                        "right": false
+                    },
+                    "type_agent": 2
+                }
+            ],
+            [
+                {
+                    "dir": 1,
+                    "from_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": true,
+                        "right": false
+                    },
+                    "block_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": false,
+                        "right": false
+                    },
+                    "type_agent": 2
+                }
+            ],
+            [
+                {
+                    "dir": 1,
+                    "from_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": true,
+                        "right": false
+                    },
+                    "block_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": false,
+                        "right": false
+                    },
+                    "type_agent": 2
+                }
+            ],
+            [
+                {
+                    "dir": 1,
+                    "from_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": true,
+                        "right": false
+                    },
+                    "block_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": false,
+                        "right": false
+                    },
+                    "type_agent": 2
+                }
+            ],
+            [
+                {
+                    "dir": 1,
+                    "from_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": true,
+                        "right": false
+                    },
+                    "block_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": false,
+                        "right": false
+                    },
+                    "type_agent": 2
+                }
+            ],
+            [
+                {
+                    "dir": 1,
+                    "from_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": true,
+                        "right": false
+                    },
+                    "block_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": false,
+                        "right": false
+                    },
+                    "type_agent": 2
+                },
+                {
+                    "dir": 2,
+                    "from_dir": {
+                        "down": true,
+                        "left": true,
+                        "up": true,
+                        "right": true
+                    },
+                    "block_dir": {
+                        "down": false,
+                        "left": false,
+                        "up": false,
+                        "right": false
+                    },
+                    "type_agent": 3
+                }
+            ]
+        ],
+        [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ],
+        [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ],
+        [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ],
+        [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ],
+        [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ],
+        [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ],
+        [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ],
+        [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ],
+        [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ],
+        [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ],
+        [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ]
+    ],
+    "matrix_size": [
+        20,
+        20
+    ]
+}
